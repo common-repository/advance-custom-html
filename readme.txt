@@ -1,31 +1,19 @@
-=== Advance Custom HTML - Code editor block for WP===
-Contributors: bplugins, charlescormier, abuhayat, abuhayat
-Donate link: https://www.buymeacoffee.com/abuhayat
-Tags: block, HTML, code, custom HTML, JavaScript, gutenberg
-Requires at least: 5.8+
+=== Advance Custom HTML   ===
+Contributors: abuhayat, charlescormier, freemius
+Donate link: https://gum.co/wpdonate/
+Tags: block, HTML, code, custom HTML, JavaScript
+Requires at least: 6.2+
 Tested up to: 6.6.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.1
 License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html 
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-An advanced HTML code editor which enable you to code professionally. It provides different skins, denting, correction and more. 
+An advance html code editor which enable you to code professionally. It provides different skins, denting, correction and more. 
 
 == Description ==
 
-👉 [Details](https://bplugins.com/products/advance-custom-html/)  👈
-
-An advanced HTML code editor which enable you to code professionally. It provides different skins, denting, correction and more. 
-
-Advance Custom HTML is a powerful and flexible block plugin that allows you to add custom HTML, CSS, and JavaScript code to your WordPress posts and pages. With this plugin, you can easily create and customize advanced layouts, add custom styles, and implement complex functionality using your own code.
-
-The plugin includes an intuitive block interface that makes it easy to add and edit custom code in your content. Simply select the Advance Custom HTML block from the Gutenberg block library, enter your code, and preview your changes in real-time. You can also toggle the code editor to make direct edits to your code if you prefer.
-
-Advance Custom HTML is a versatile plugin that supports a wide range of code formats, including HTML5, CSS3, JavaScript, and more. You can also add external scripts, stylesheets, and libraries to your content for even greater flexibility.
-
-The plugin is also optimized for performance and security. All custom code added using Advance Custom HTML is automatically sanitized and validated to prevent security vulnerabilities, and the plugin is designed to minimize its impact on your site's performance.
-
-Overall, Advance Custom HTML is a powerful and essential block plugin for anyone looking to customize their WordPress content with custom code. Try it out today and take your content to the next level!
+An advance html code editor which enable you to code professionally. It provides different skins, denting, correction and more. 
 
 = Features =
 * Easy to use
@@ -36,7 +24,7 @@ Overall, Advance Custom HTML is a powerful and essential block plugin for anyone
 * drag preview panel anywhere on the screen
 
 
-= How to use? =
+= How to use =
 - First install the Custom HTML plugin
 - Add the Custom HTML block from the block category called "Widgets" in Gutenberg editor.
 - You can change block settings from the right side settings sidebar.
@@ -46,7 +34,7 @@ Overall, Advance Custom HTML is a powerful and essential block plugin for anyone
 
 
 = Feedback =
-- Liked this plugin? Hate it? Want a new feature? [Send me some feedback](mailto:support@bplugins.com 'Send feedback')
+- Liked that plugin? Hate it? Want a new feature? [Send me some feedback](mailto:support@bplugins.com 'Send feedback')
 
 
 = ⭐ Check out the Parent Plugin of this plugin- =
@@ -106,12 +94,25 @@ You can post your questions on the [support forum here](https://wordpress.org/su
 
 == Screenshots ==
 
-1. Preview
-2. HTML
-3. HTML & Preview
 
 
 == Changelog ==
+
+= 1.0.1 - 31 Oct 24 =
+* Embed the code to frontend
+* Edit Tab Size
+* Add Theme Option where have 45 themes collection
+* Change Different Language For Different Syntax
+* Display Heading
+* Hide/Show Copy Button
+* Change Position of Copy Button When Heading is Disable
+* Change Copy Button Type Like You Can Keep Icon or Text(You can change text with your needed)
+* Styles Copy Button
+* Hide/Show Highlight Active Line
+* Hide/Show Fold Gutter
+* Autocompletion Enable/Disable
+* Wrap Enable/Disable
+* Edit Code Editor Height and Width
 
 = 1.0.0 =
 * Initial Release
